@@ -4,11 +4,6 @@
 GetChoice("Knife", "scythe", "A child");
 
 
-
-Console.WriteLine("Neat huh? no? ok then...");
-Console.ReadLine();
-
-
 static int GetChoice(string choice1, string choice2, string choice3)
 {
     
